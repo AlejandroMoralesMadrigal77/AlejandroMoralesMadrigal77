@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-💻 Estudiante de Grado Superior en Desarrollo de Aplicaciones  DAM .<br>🌱 Cursando 2º de Grado Superior, profundizando en el desarrollo de aplicaciones completas, acceso a datos y arquitectura de software.<br>🚀 Subiendo mis prácticas, ejercicios de clase y primeros proyectos para documentar mi evolución.<br>📫 Puedes contactarme en: [sankle07777@gmail.com]
+💻 Estudiante de Grado Superior en Desarrollo de Aplicaciones  DAM .<br>🌱 Cursando 2º de Grado Superior, profundizando en el desarrollo de aplicaciones completas, acceso a datos y arquitectura de software.<br>🚀 Subiendo mis prácticas, ejercicios de clase y proyectos para documentar mi evolución.<br>📫 Puedes contactarme en: [sankle07777@gmail.com]
 
 
 # 💻 Lenguajes y Herramientas:
